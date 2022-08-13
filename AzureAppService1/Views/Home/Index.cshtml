@@ -1,0 +1,12 @@
+﻿@model AzureAppService1.Models.ViewModel.Home.IndexViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form asp-action="Index" asp-controller="Home">
+    <div>
+        @Html.TextBoxFor(m=> m.NumberA) + @Html.TextBoxFor(m=> m.NumberB) 等於 @Model.NumberC
+    </div>
+
+    <input type="submit" value="計算" />
+</form>

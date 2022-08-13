@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AzureAppService1/1.0.0": {
+        "runtime": {
+          "AzureAppService1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AzureAppService1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
