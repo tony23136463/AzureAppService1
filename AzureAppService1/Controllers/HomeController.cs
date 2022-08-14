@@ -18,6 +18,12 @@ namespace AzureAppService1.Controllers
         {
             view.NumberC = view.NumberA + view.NumberB;
 
+            if(view.NumberA == 5)
+            {
+                List<string> ss = null;
+                ss.First();
+            }
+
             return View(view);
         }
 

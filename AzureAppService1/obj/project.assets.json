@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\坤成\\網頁練習\\Azure\\AzureAppService1\\AzureAppService1\\AzureAppService1.csproj",
+      "projectUniqueName": "F:\\Project1\\AzureAppService1\\AzureAppService1\\AzureAppService1.csproj",
       "projectName": "AzureAppService1",
-      "projectPath": "D:\\坤成\\網頁練習\\Azure\\AzureAppService1\\AzureAppService1\\AzureAppService1.csproj",
+      "projectPath": "F:\\Project1\\AzureAppService1\\AzureAppService1\\AzureAppService1.csproj",
       "packagesPath": "C:\\Users\\tony\\.nuget\\packages\\",
-      "outputPath": "D:\\坤成\\網頁練習\\Azure\\AzureAppService1\\AzureAppService1\\obj\\",
+      "outputPath": "F:\\Project1\\AzureAppService1\\AzureAppService1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
